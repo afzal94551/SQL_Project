@@ -1,0 +1,26 @@
+Product ID,Product,Model
+LA-R2-1,Laptop,C22R2
+LA-R3-2,Laptop,C22R3
+LA-R4-3,Laptop,C22R4
+LA-i1-4,Laptop,R2Ri1
+LA-i3-5,Laptop,R2Ri3
+LA-A1-6,Laptop,GAME_ULTRA1
+LA-A3-7,Laptop,GAME_ULTRA3
+LA-A5-8,Laptop,GAME_ULTRA5
+TA-i1-9,Tab,i1
+TA-i3-10,Tab,i3
+TA-i5-11,Tab,i5
+TA-i7-12,Tab,i7
+DE-n1-13,Dektop,Gen1
+DE-n2-14,Dektop,Gen2
+DE-n3-15,Dektop,Gen3
+DE-e1-16,Dektop,Game1
+DE-ra-17,Dektop,GameUltra
+DE-i1-18,Dektop,Super_i1
+MO-i1-19,Mobile,Dymond i1
+MO-i3-20,Mobile,Dymond i3
+MO-i5-21,Mobile,Dymond i5
+MO-i7-22,Mobile,Dymond i7
+MO-i1-23,Mobile,Game i1
+MO-i3-24,Mobile,Game i3
+MO-i5-25,Mobile,Game i5
