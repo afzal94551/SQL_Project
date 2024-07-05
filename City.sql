@@ -1,3 +1,9 @@
+-- Creating Table City
+CREATE TABLE City (
+	ID int Primary key,
+	City  Varchar(50) Not null
+	);
+
 INSERT City (ID, City) VALUES (1, 'Delhi')
 ;
 INSERT City (ID, City) VALUES (2, 'Kuala Lumpur')
