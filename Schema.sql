@@ -84,7 +84,7 @@ CREATE TABLE  Purchase(
 -- Creating Sales Table
 
 CREATE TABLE Sales(
-	Order_ID varchar(14) NOT NULL,
+	Order_ID varchar(14) Primary key,
 	Order_Date date NOT NULL,
 	Ship_Date date NOT NULL,
 	Ship_Mode_ID Int NOT NULL,
